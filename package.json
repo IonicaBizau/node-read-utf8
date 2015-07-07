@@ -1,0 +1,27 @@
+{
+  "name": "read-utf8",
+  "version": "1.0.0",
+  "description": "Reads files using the utf-8 encoding.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-read-utf8.git"
+  },
+  "keywords": [
+    "utf8",
+    "files",
+    "filesystem"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-read-utf8/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-read-utf8"
+}
