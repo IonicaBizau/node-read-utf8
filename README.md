@@ -1,6 +1,6 @@
-# read-utf8 [![Support this project][donate-now]][paypal-donations]
+# read-utf8 [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/read-utf8.svg)](https://www.npmjs.com/package/read-utf8) [![Downloads](https://img.shields.io/npm/dt/read-utf8.svg)](https://www.npmjs.com/package/read-utf8) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Reads files using the utf-8 encoding.
+> Reads files using the utf-8 encoding.
 
 ## Installation
 
