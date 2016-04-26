@@ -1,14 +1,18 @@
+
 # read-utf8 [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/read-utf8.svg)](https://www.npmjs.com/package/read-utf8) [![Downloads](https://img.shields.io/npm/dt/read-utf8.svg)](https://www.npmjs.com/package/read-utf8) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Reads files using the utf-8 encoding.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save read-utf8
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -26,7 +30,8 @@ ReadFile(__dirname + "/2.txt", function (err, content) {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `ReadFile(path, {Function}callback)`
 
@@ -37,17 +42,22 @@ ReadFile(__dirname + "/2.txt", function (err, content) {
 #### Return
 - **String** If the `callback` was not provided, the file content is returned.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`learning-node-cheerio-test`](https://github.com/IonicaBizau/learning-nodejs#readme)
 
- - [`nodeice`](https://github.com/IonicaBizau/nodeice)
+ - [`arc-asm`](https://github.com/IonicaBizau/arc-assembler)—An ARC assembler written in Node.JS.
+ - [`emojer-cli`](https://github.com/IonicaBizau/emojer-cli#readme)—Command line tool for emojer.
+ - [`learning-node-cheerio-test`](https://github.com/IonicaBizau/learning-nodejs#readme)—Learning how to manipulate DOM using Node.js
+ - [`nodeice`](https://github.com/IonicaBizau/nodeice)—Another PDF invoice generator
+ - [`rucksack`](https://github.com/IonicaBizau/rucksack#readme)—Bundle js files by replacing the require calls in-place.
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
