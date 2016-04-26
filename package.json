@@ -1,6 +1,6 @@
 {
   "name": "read-utf8",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Reads files using the utf-8 encoding.",
   "main": "lib/index.js",
   "directories": {
@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-read-utf8/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-read-utf8"
+  "homepage": "https://github.com/IonicaBizau/node-read-utf8",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
