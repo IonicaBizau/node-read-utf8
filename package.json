@@ -1,6 +1,6 @@
 {
   "name": "read-utf8",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Reads files using the utf-8 encoding.",
   "main": "lib/index.js",
   "directories": {
@@ -28,6 +28,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
