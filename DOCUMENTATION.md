@@ -5,6 +5,7 @@ You can see below the API reference of this module.
 ### `ReadFile(path, {Function}callback)`
 
 #### Params
+
 - **String** `path`: The path to the file.
 - **** `{Function}callback`: The callback function.
 
