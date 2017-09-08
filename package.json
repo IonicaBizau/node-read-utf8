@@ -1,6 +1,6 @@
 {
   "name": "read-utf8",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Reads files using the utf-8 encoding.",
   "main": "lib/index.js",
   "directories": {
@@ -34,6 +34,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
